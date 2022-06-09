@@ -12,7 +12,7 @@
         android:id="@+id/AppBarLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#48A3FD">
+        android:background="@color/blue_main">
 
     <!--        android:theme="@style/Theme.SmartClickApp.AppBarOverlay"-->
 
