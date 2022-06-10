@@ -10,6 +10,7 @@ import androidx.viewpager.widget.ViewPager
 import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
+import android.view.View
 import com.example.smartclick_app.ui.main.SectionsPagerAdapter
 import com.example.smartclick_app.databinding.ActivityMainBinding
 
@@ -60,4 +61,5 @@ class MainActivity : AppCompatActivity() {
         menuInflater.inflate(R.menu.overflow_menu, menu)
         return super.onCreateOptionsMenu(menu)
     }
+
 }

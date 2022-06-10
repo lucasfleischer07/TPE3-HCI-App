@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">SmartClick</string>
+
     <string name="tab_devices">Dispositivos</string>
     <string name="tab_routines">Rutinas</string>
+
     <string name="overflow_settings">Configuración</string>
     <string name="overflow_help">Ayuda</string>
+
+    <string name="button_select_house">Seleccione una casa</string>
+    <string name="title_select_house">Seleccione una casa:</string>
+    <string name="selected_house">Casa seleccionada</string>
+    <string name="confirm_house_selected">Confirmar</string>
+    <string name="cancel_house_selected">Cancelar</string>
 
 </resources>
